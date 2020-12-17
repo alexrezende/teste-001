@@ -1,0 +1,177 @@
+.body {
+    height: 100%;
+    width: 100%;
+    margin: 0px auto;
+}
+
+ul {
+    padding: 0px!important;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color:#FFA500;
+    height: 85px;
+    padding: 0px auto;
+}
+
+.logo {
+   float: left;    
+   height: 70px;
+   width: 235px;
+   margin-right: 55%;
+   margin-top: 5px;
+   margin-left: 5px;
+   padding: 0px auto;
+}
+
+.logo-redes {
+   height: 45px;
+   width: 45px;
+   border-radius: 50%;
+   float: left;
+   margin: 18px 5px 5px 5px;
+}
+
+.conteudo {
+    margin: 0px auto;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.main {
+    margin: 0px auto;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.redes-sociais ul li {
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+
+.header-2 {
+   width: 980px;
+   margin: 0 auto;
+   padding: 16px;   
+}
+
+.menu-urls {
+    height: 80px;
+    background-color: #F0F8FF;
+    border-top: 3px solid #228B22;
+    border-bottom: 3px solid #228B22;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-left: 17px;
+}
+
+.menu ul li a:hover {
+    color: #FF8C00;
+}
+
+.menu ul li:hover {
+    padding-bottom: 18px;
+    border-bottom: 3px solid #FF8C00;
+}
+
+.menu ul li a {
+    color: #228B22;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: inherit;
+}
+
+.menu {
+    width: 70%;
+   float: left;
+}
+
+.busca {
+   width: 30%;
+   float: right;
+   text-align: center;
+}
+
+.busca input {
+    height: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 2px solid #228B22;
+    font-style: italic;
+}
+
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.carrosel-series {
+    margin-top: 10px;
+}
+
+.slide {
+    border: 5px solid black;
+    border-top-right-radius: 20%;
+}
+
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.texto-destaque p {
+    color: #696969;
+    font-size: 22px;
+}
+
+.texto-destaque strong {
+    background-color: black;
+    color: gainsboro;
+}
+
+.col-3 {
+    display: inline-block;
+    background-color: #EEE8AA;
+    width: 33.1%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+    
+.col-3 img {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    background-color: darkorange;
+}
+
+.imagem-fim {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.rodape {
+    height: 35px;
+    width: 100%;
+    color: darkgray;
+    background-color:black;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
